@@ -6,6 +6,18 @@
     "start": "node tateti.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.21.2"
+  },
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Uc_kVv2r)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Despliegue-I-2025/ta-te-ti-sinnombre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Despliegue-I-2025/ta-te-ti-sinnombre/issues"
+  },
+  "homepage": "https://github.com/Despliegue-I-2025/ta-te-ti-sinnombre#readme"
 }
